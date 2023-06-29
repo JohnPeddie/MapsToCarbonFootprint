@@ -1,0 +1,39 @@
+Activity Type,Description
+BOATING,Boating
+CATCHING_POKEMON,Catching Pokemon
+CYCLING,Cycling
+FLYING,Flying
+HIKING,Hiking
+HORSEBACK_RIDING,Horseback riding
+IN_BUS,On a bus
+IN_CABLECAR,In a cable car
+IN_FERRY,On a ferry
+IN_FUNICULAR,On a funicular
+IN_GONDOLA_LIFT,In a gondola lift
+IN_PASSENGER_VEHICLE,Driving
+IN_SUBWAY,On the subway
+IN_TAXI,In a taxi
+IN_TRAIN,On a train
+IN_TRAM,On a tram
+IN_VEHICLE,In a vehicle
+IN_WHEELCHAIR,By wheelchair
+KAYAKING,Kayaking
+KITESURFING,Kitesurfing
+MOTORCYCLING,Motorcycling
+PARAGLIDING,Paragliding
+ROWING,Rowing
+RUNNING,Running
+SAILING,Sailing
+SKATEBOARDING,Skateboarding
+SKATING,Skating
+SKIING,Skiing
+SLEDDING,Sledding
+SNOWBOARDING,Snowboarding
+SNOWMOBILE,Snowmobiling
+SNOWSHOEING,Snowshoeing
+STILL,Still
+SURFING,Surfing
+SWIMMING,Swimming
+UNKNOWN_ACTIVITY_TYPE,Moving
+WALKING,Walking
+WALKING_NORDIC,Nordic walking
